@@ -1,0 +1,166 @@
+Assinatura do Funcionário
+108,97
+1.501,32Código Descrição Referência Vencimentos Descontos
+8781
+995
+998DIAS NORMAIS
+SALARIO FAMILIA
+I.N.S.S.30,00
+179,46
+7,621.430,83
+179,46
+108,97E & SOUZA INDUSTRIA DE PECAS PARA FOGAO LTDA
+16.600.938/0001-82 CNPJ: CC:
+2Código
+DAVID TAVARES DOS SANTOSNome do Funcionário CBO
+862150Departamento
+1FilialFolha Mensal
+Outubro de 2023GERAL
+Mensalista
+Admissão: 01/09/2012 OPERADOR DE MAQUINA1
+1.430,83Sal. Contr . INSS
+1.430,83Salário BaseTotal de V encimentos
+Valor LíquidoTotal de Descontos
+Base Cálc. FGTS
+1.430,83F.G.T.S do Mês Base Cálc. IRRF
+902,83Faixa IRRF
+0,00 114,46
+Declaro ter recebido a importância líquida discriminada neste recibo.
+1.610,29
+108,97
+1.501,32Código Descrição Referência Vencimentos Descontos
+8781
+995
+998DIAS NORMAIS
+SALARIO FAMILIA
+I.N.S.S.1.430,83
+179,46
+108,97
+____/____/_______E & SOUZA INDUSTRIA DE PECAS PARA FOGAO LTDA
+16.600.938/0001-82 CNPJ: CC:
+2Código
+DAVID TAVARES DOS SANTOSNome do Funcionário CBO
+862150Departamento
+1FilialFolha Mensal
+Outubro de 2023GERAL
+Mensalista
+Admissão: 01/09/2012 OPERADOR DE MAQUINA1
+1.430,83Sal. Contr . INSS
+1.430,83Salário BaseTotal de V encimentos
+Valor LíquidoTotal de Descontos
+Base Cálc. FGTS
+1.430,83F.G.T.S do Mês Base Cálc. IRRF
+902,83Faixa IRRF
+0,00 114,46
+Assinatura do FuncionárioDeclaro ter recebido a importância líquida discriminada neste recibo.
+1.610,2930,00
+179,46
+7,62
+____/____/_______
+Data DataAssinatura do Funcionário
+145,20
+1.174,80Código Descrição Referência Vencimentos Descontos
+9380
+843PRO-LABORE DIAS
+INSS EMPREGADOR30,00
+11,001.320,00
+145,20E & SOUZA INDUSTRIA DE PECAS PARA FOGAO LTDA
+16.600.938/0001-82 CNPJ: CC:
+4Código
+EMERSON PEREIRA DE SOUZANome do Funcionário CBO
+252105Departamento
+2FilialFolha Mensal
+Outubro de 2023GERAL
+Mensalista
+Admissão: 02/07/2012 ADMINISTRADO1
+1.320,00Sal. Contr . INSS
+1.320,00Salário BaseTotal de V encimentos
+Valor LíquidoTotal de Descontos
+Base Cálc. FGTS
+0,00F.G.T.S do Mês Base Cálc. IRRF
+792,00Faixa IRRF
+0,00Matrícula INSS:
+0,00
+Declaro ter recebido a importância líquida discriminada neste recibo.
+1.320,00
+145,20
+1.174,80Código Descrição Referência Vencimentos Descontos
+9380
+843PRO-LABORE DIAS
+INSS EMPREGADOR1.320,00
+145,20
+____/____/_______E & SOUZA INDUSTRIA DE PECAS PARA FOGAO LTDA
+16.600.938/0001-82 CNPJ: CC:
+4Código
+EMERSON PEREIRA DE SOUZANome do Funcionário CBO
+252105Departamento
+2FilialFolha Mensal
+Outubro de 2023GERAL
+Mensalista
+Admissão: 02/07/2012 ADMINISTRADO1
+1.320,00Sal. Contr . INSS
+1.320,00Salário BaseTotal de V encimentos
+Valor LíquidoTotal de Descontos
+Base Cálc. FGTS
+0,00F.G.T.S do Mês Base Cálc. IRRF
+792,00Faixa IRRF
+0,00Matrícula INSS:
+0,00
+Assinatura do FuncionárioDeclaro ter recebido a importância líquida discriminada neste recibo.
+1.320,0030,00
+11,00
+____/____/_______
+Data DataAssinatura do Funcionário
+145,20
+1.174,80Código Descrição Referência Vencimentos Descontos
+9380
+843PRO-LABORE DIAS
+INSS EMPREGADOR30,00
+11,001.320,00
+145,20E & SOUZA INDUSTRIA DE PECAS PARA FOGAO LTDA
+16.600.938/0001-82 CNPJ: CC:
+5Código
+EVANDRO QUINTINO DE SOUZA CORDEIRO SANTANANome do Funcionário CBO
+252105Departamento
+2FilialFolha Mensal
+Outubro de 2023GERAL
+Mensalista
+Admissão: 02/07/2012 ADMINISTRADO1
+1.320,00Sal. Contr . INSS
+1.320,00Salário BaseTotal de V encimentos
+Valor LíquidoTotal de Descontos
+Base Cálc. FGTS
+0,00F.G.T.S do Mês Base Cálc. IRRF
+792,00Faixa IRRF
+0,00Matrícula INSS:
+0,00
+Declaro ter recebido a importância líquida discriminada neste recibo.
+1.320,00
+145,20
+1.174,80Código Descrição Referência Vencimentos Descontos
+9380
+843PRO-LABORE DIAS
+INSS EMPREGADOR1.320,00
+145,20
+____/____/_______E & SOUZA INDUSTRIA DE PECAS PARA FOGAO LTDA
+16.600.938/0001-82 CNPJ: CC:
+5Código
+EVANDRO QUINTINO DE SOUZA CORDEIRO SANTANANome do Funcionário CBO
+252105Departamento
+2FilialFolha Mensal
+Outubro de 2023GERAL
+Mensalista
+Admissão: 02/07/2012 ADMINISTRADO1
+1.320,00Sal. Contr . INSS
+1.320,00Salário BaseTotal de V encimentos
+Valor LíquidoTotal de Descontos
+Base Cálc. FGTS
+0,00F.G.T.S do Mês Base Cálc. IRRF
+792,00Faixa IRRF
+0,00Matrícula INSS:
+0,00
+Assinatura do FuncionárioDeclaro ter recebido a importância líquida discriminada neste recibo.
+1.320,0030,00
+11,00
+____/____/_______
+Data Data

@@ -1,0 +1,98 @@
+Prefeitura do Município de Maringá
+Estado do Paraná
+Secretaria Municipal de Fazenda
+Documento de Arrecadação Municipal
+Vencimento:
+20/11/2023
+Não receber após o vencimento
+IDENTIFICAÇÃO DO PAGADOR
+CPF/CNPJ:
+07.732.235/0001-17
+Cadastro Mobiliário
+:
+234449
+Razão Social:
+E FIGUEIREDO COSTA & CIA LTDA
+Receita:
+ISSQN HOMOLOGADO
+DEMONSTRATIVO DE VALORES
+Nosso Número:
+44442300197716501
+Competência:
+10/2023
+Data Emissão:
+17/11/2023 15:35
+Tipo Guia:
+NFS-e
+VALORES DO DÉBITO
+Base de Cálculo:
+R$ 18.172,42
+Valor Correção:
+R$ 0,00
+Valor do Tributo:
+R$ 545,17
+Valor Multa:
+R$ 0,00
+Valor Desconto:
+R$ 0,00
+Valor Juros:
+R$ 0,00
+Valor Principal
+R$ 545,17
+Valor Total:
+R$ 545,17
+NFS-e Nº : 40;
+--- AUTENTICAÇÃO MECÂNICA ---
+Corte na linha pontilhada
+Prefeitura do Município de Maringá
+Estado do Paraná
+Secretaria Municipal de Fazenda
+Documento de Arrecadação Municipal
+Vencimento:
+20/11/2023
+Não receber após o vencimento
+IDENTIFICAÇÃO DO PAGADOR
+CPF/CNPJ:
+07.732.235/0001-17
+Cadastro Mobiliário
+:
+234449
+Razão Social:
+E FIGUEIREDO COSTA & CIA LTDA
+Receita:
+ISSQN HOMOLOGADO
+DEMONSTRATIVO DE VALORES
+Nosso Número:
+44442300197716501
+Competência:
+10/2023
+Data Emissão:
+17/11/2023
+Tipo Guia:
+NFS-e
+VALORES DO DÉBITO
+Base de Cálculo:
+R$ 18.172,42
+Valor Correção:
+R$ 0,00
+Valor do Tributo:
+R$ 545,17
+Valor Multa:
+R$ 0,00
+Valor Desconto:
+R$ 0,00
+Valor Juros:
+R$ 0,00
+Valor Principal
+R$ 545,17
+Valor Total:
+R$ 545,17
+Pague nas agências bancárias:
+Itaú, Caixa Econômica Federal e Banco do Brasil
+Valor a pagar: 
+R$ 545,17
+ 
+Pagador / Avalista
+Autenticação mecânica - 
+Ficha de Compensação
+81670000005-1 45172594202-8 31120444423-7 00197716501-6

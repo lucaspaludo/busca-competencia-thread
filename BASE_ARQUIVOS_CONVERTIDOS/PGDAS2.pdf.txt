@@ -1,0 +1,40 @@
+Documento de Arrecadação
+do Simples Nacional
+ 
+48.311.951/0001-08 GL SOLUCOES EM VENDAS LTDA
+Período de Apuração Data de Vencimento Número do Documento
+07.20.23102.9924113-4Pagar este documento até
+Observações
+Valor Total do Documento
+CNPJ Razão Social
+ 
+Código Principal Denominação Total Multa JurosComposição do Documento de Arrecadação
+1001IRPJ - SIMPLES NACIONAL 15,90 15,90
+1002CSLL - SIMPLES NACIONAL 13,92 13,92
+1004COFINS - SIMPLES NACIONAL 50,97 50,97
+1005PIS - SIMPLES NACIONAL 11,05 11,05
+1006INSS - SIMPLES NACIONAL 
+Totais 
+SENDA (Versão:5.1.4) 11 Página: /
+85870000002 2 64400328231 7 10072023102 3 99241134701 1 AUTENTICAÇÃO MECÂNICA
+Documento de Arrecadação do Simples Nacional
+ 
+ 48.311.951/0001-08
+Número: 07.20.23102.9924113-4
+Pagar até: 
+Valor: CNPJ:Pague com o PIX
+ 1172,56 1172,56
+2264,40 2264,40
+85970000002 2 64400328231 7 20072023102 3
+2264,4084241134701 1 
+ 
+ 
+2264,40
+ 
+10/2023
+10/2023
+10/2023
+10/2023
+10/2023
+01/11/2023 11:33:27
+20/11/2023Out/2023 20/11/202320/11/2023

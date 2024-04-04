@@ -1,0 +1,14 @@
+BELO RISO CLINICA ODONTOLOGICA LTDA
+CNPJ:
+Situação: Todos os arquivos
+RELATÓRIO DE CONSULTA DO ENVIO DOS ARQUIVOS DA EFD-REINF11:53:2616/11/20231/1 Página:
+Emissão:
+Hora:15.038.776/0001-78
+Competência: 10/2023 a 10/2023
+Empresa Competência Inscrição Ambiente Data/Hora envio Número do recibo Situação Tipo de envio Evento
+1
+419 - BELO RISO CLINICA ODONTOLOGICA LTDA 10/2023 15.038.776/0001-78 Oficial Invalidado Inclusão R-1000 - Informações do Contribuinte
+1419 - BELO RISO CLINICA ODONTOLOGICA LTDA 10/2023 15.038.776/0001-78 Oficial 5484903-06-2099-2310-5484903 Sucesso Fechamento R-2099 - Fechamento dos Eventos Periódicos
+419 - BELO RISO CLINICA ODONTOLOGICA LTDA 10/2023 15.038.776/0001-78 Oficial 14003980-06-4010-2310-14003980 Sucesso Inclusão R-4010 - Pagamentos/créditos a beneficiário pessoa física
+1419 - BELO RISO CLINICA ODONTOLOGICA LTDA 10/2023 15.038.776/0001-78 Oficial 190144-06-4099-2310-190144 Sucesso Fechamento R-4099 - Fechamento/reabertura dos eventos da série R-4000
+Sistema licenciado para SANNAR CONTABILIDADE

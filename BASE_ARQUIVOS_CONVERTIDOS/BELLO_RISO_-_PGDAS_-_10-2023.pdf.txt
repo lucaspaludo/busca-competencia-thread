@@ -1,0 +1,36 @@
+RECIBO DE ENTREGA DA APURAÇÃO NO PGDAS-D
+Declaração Original
+1. Informações do Contribuinte
+Nome Empresarial CNPJ da Matriz
+BELO RISO CLINICA ODONTOLOGICA LTDA 15.038.776/0001-78
+Data da Abertura no CNPJ Optante pelo Simples Nacional
+13/12/2011 Sim
+ CNPJ das filiais presentes nesta declaração
+ Nenhuma.
+.
+2. Resumo da Apuração
+2.1 Apuração no Simples Nacional
+Período de
+ApuraçãoNúmero da
+ApuraçãoReceita Bruta
+AuferidaTotal do
+Débito
+DeclaradoTotal do
+Débito com
+Exigibilidade
+SuspensaTotal do
+Débito
+Exigível
+10/2023 15038776202310001 R$ 28.534,27 R$ 2.558,52 R$ 0,00 R$ 2.558,52
+. .
+3. Informações da Recepção da Apuração no PGDAS-D
+Data e Horário da Transmissão (Data e Horário de Brasília)
+17/11/2023 15:37:27
+CPF do Responsável
+033.412.056-08
+IP do Usuário
+179.83.164.242
+Número do Recibo
+01.07.23321.0406107-6
+Autenticação
+15280.03337.87358.76320

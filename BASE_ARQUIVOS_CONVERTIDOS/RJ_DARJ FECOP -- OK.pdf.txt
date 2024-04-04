@@ -1,0 +1,97 @@
+GOVERNO DO ESTADO DO RIO DE JANEIRO (09) DATA VALIDADE
+Secretaria de Estado de Fazenda
+SUAR - Superintendência de Arrecadação
+DARJ – DOCUMENTO DE ARRECADAÇÃO DO RIO DE JANEIRO
+(01) NOME / RAZÃO SOCIAL (ESTABELECIMENTO PRINCIPAL) (10) CNPJ/CPF
+(02) ENDEREÇO (11) NOSSO NÚMERO
+(03) MUNICÍPIO (04) UF (05) CEP (12) Nº DOCUMENTO
+(06) RECEITA (07) NATUREZA DA RECEITA (13) VALOR PRINCIPAL
+(08) INFORMAÇÕES COMPLEMENTARES (14) JUROS DE MORA
+NÃO RECEBER APÓS(15) MULTA DE MORA
+SEFAZ-RJ - CNPJ nº 42.498.675/0001-52
+O Contribuinte é responsável pelas informações contidas neste DARJ e por atualizar seus dados cadastrais junto à SEFAZ-RJ.
+(18) AUTENTICAÇÃO BANCÁRIA(16) MULTA PENAL/FORMAL
+(17) TOTAL A PAGAR
+10/11/2023
+MILLENIUM UTILIDADES DOMÉSTICAS LTDA
+Cabrália, 234 1202311100100007825041400
+NOVA IGUAÇU RJ 26220-130 78250414
+ICMS/FECP Operações Próprias - Apuração 2.603,79
+10/11/2023
+0,00
+0,00
+2.603,79
+** PAGÁVEL EXCLUSIVAMENTE NO BANCO BRADESCO. **
+85880000026-1 03790359120-0 23111001000-3 07825041400-304.150.555/0012-23
+0,00
+Via CLIENTE
+ 
+GOVERNO DO ESTADO DO RIO DE JANEIRO (09) DATA VALIDADE
+Secretaria de Estado de Fazenda
+SUAR - Superintendência de Arrecadação
+DARJ – DOCUMENTO DE ARRECADAÇÃO DO RIO DE JANEIRO
+(01) NOME / RAZÃO SOCIAL (ESTABELECIMENTO PRINCIPAL) (10) CNPJ/CPF
+(02) ENDEREÇO (11) NOSSO NÚMERO
+(03) MUNICÍPIO (04) UF (05) CEP (12) Nº DOCUMENTO
+(06) RECEITA (07) NATUREZA DA RECEITA (13) VALOR PRINCIPAL
+(08) INFORMAÇÕES COMPLEMENTARES (14) JUROS DE MORA
+NÃO RECEBER APÓS(15) MULTA DE MORA
+SEFAZ-RJ - CNPJ nº 42.498.675/0001-52
+O Contribuinte é responsável pelas informações contidas neste DARJ e por atualizar seus dados cadastrais junto à SEFAZ-RJ.
+(18) AUTENTICAÇÃO BANCÁRIA(16) MULTA PENAL/FORMAL
+(17) TOTAL A PAGAR
+10/11/2023
+MILLENIUM UTILIDADES DOMÉSTICAS LTDA
+Cabrália, 234 1202311100100007825041400
+NOVA IGUAÇU RJ 26220-130 78250414
+ICMS/FECP Operações Próprias - Apuração 2.603,79
+10/11/2023
+0,00
+0,00
+2.603,79
+** PAGÁVEL EXCLUSIVAMENTE NO BANCO BRADESCO. **
+85880000026-1 03790359120-0 23111001000-3 07825041400-304.150.555/0012-23
+0,00
+Via BANCO
+ Governo do Estado do Rio de Janeiro
+Secretaria de Estado de Fazenda
+Superintendência de Arrecadação, Cadastro e Informações Econômico-Fiscais
+ Demonstrativo de Item de Pagamento - DIP
+Dados do Documento de Arrecadação
+Nosso Número: 1202311100100007825041400
+DARJ
+Tipo de Pagamento:
+Data Pagamento: 10/11/2023Tipo de Documento:
+ICMS/FECP
+Operações Próprias - Apuração (Débitos/Créditos) Natureza da receita:
+CNPJ/CPF:
+Inscrição estadual/RJ:
+Nome/razão social:
+Endereço:
+Data Vencimento:
+ICMS Informado:
+ICMS Atualizado:
+Multa de Mora:04.150.555/0012-23
+11.905.66-8
+MILLENIUM UTILIDADES DOMÉSTICAS LTDA
+Cabrália, 234
+10/11/2023
+Informações Complementares:
+Juros:Dados do Item de Pagamento
+UF:Município:
+CEP:
+Telefone:
+Período de Referência: 10/2023Qualificação Receita: Normal
+Valores em Real
+FECP Informado:
+FECP Atualizado:
+Multa de Mora:Juros:RJNOVA IGUAÇU
+26220-130
+0,00 2.603,79
+0,00
+0,00
+0,002.603,79
+0,00
+0,00R$ R$
+0,00 Total:2.603,79 Total:ICMS Compensado: 0,00
+Válido somente acompanhado do DARJ ou da GNRE.

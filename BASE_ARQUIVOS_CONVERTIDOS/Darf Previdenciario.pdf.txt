@@ -1,0 +1,24 @@
+Documento de Arrecadação
+de Receitas Federais
+ 
+42.413.769/0001-81 JCS REPRESENTACOES LTDA
+Período de Apuração Data de Vencimento Número do Documento
+07.16.23305.0753892-9Pagar este documento até
+20/11/2023Observações
+Nº Recibo Declaração: 50000173901895 Valor Total do Documento
+145,20CNPJ Razão Social
+Outubro/2023 20/11/2023
+Código Principal Denominação Total Multa JurosComposição do Documento de Arrecadação
+1099CP SEGURADOS - CONTRIBUINTES INDIVIDUAIS - 11 145,20 145,20
+01 CP SEGURADOS - CONTRIBUINTES INDIVIDUAIS - 11%
+PA:10/2023 Vencimento:20/11/2023
+Totais 145,20 145,20
+SENDA (Versão:5.1.7) 01/11/2023 07:59:36 11 Página: /
+85800000001 1 45200385233 2 24071623305 5 07538929309 3 AUTENTICAÇÃO MECÂNICA
+Documento de Arrecadação de Receitas Federais
+85800000001 1 45200385233 2 24071623305 5
+ 42.413.769/0001-81
+Número: 07.16.23305.0753892-9
+Pagar até: 20/11/2023
+Valor: 145,2007538929309 3 CNPJ:Pague com o PIX
+ 

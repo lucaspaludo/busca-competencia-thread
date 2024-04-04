@@ -1,0 +1,83 @@
+PREFEITURA MUNICIPAL DE BARUERI
+ESTADO DE SÃO PAULO
+Vencimento
+Agência/Código Cedente
+Nosso Número
+(=) Valor do Documento
+(-) Desconto/Abatimento
+(-) Outras Deduções
+(+) Mora/Multa
+(+) Outros Acréscimos
+(=) Valor CobradoLocal de Pagamento
+Cedente
+Data Documento
+Instruções (Texto de responsabilidade do Cedente )
+SacadoValor Principal
+Multa
+Juros
+Correção Monetária
+Honorários
+TotalDemonstrativo
+Código de Baixa
+Autenticação Mecânica
+RECIBO DO SACADO
+FICHA DE COMPENSAÇÃO
+Número do Documento Espécie Documento Aceite Data Processamento
+Carteira Espécie Quantidade Valor
+Sacador/ Avalista :PAGÁVEL EM QUALQUER BANCO ATÉ O VENCIMENTO
+PREFEITURA MUNICIPAL DE BARUERI CNPJ : 46.523.015/0001-35 
+VISITE O PORTAL DE SERVIÇOS DA PREFEITURA DE BARUERI www .barueri.sp.gov.br
+PAGÁVEL PREFERENCIALMENTE NAS AGÊNCIAS DO BANCO BRADESCO
+APÓS O VENCIMENTO , RETIRAR NOVO DOCUMENTO NO PORTAL DE SERVIÇOS
+23791.22605  90000.855875  61014.277307  2  95050000001516PREFEITURA MUNICIPAL DE BARUERI16/10/2023
+REAL 09N16/10/2023
+1226-2 / 142773-3
+09 / 00008558761-P 14,67
+ 0,34
+ 15,16 0,15
+ 0,00
+ 0,00CONTRIBUINTE: JR OPERADOR LOGISTICO LTDA - 4.AH773-1
+REF: ISS GUIAS GERADO EM 16/10/2023 DOCUMENTO NRO .: 239024 - COMPETÊNCIA: 09/2023
+BASE CÁLC. SERVIÇOS PRESTADOS : 3.949.821,47
+BASE CÁLC. SERVIÇOS TOMADOS : 293,45
+COMPENSAÇÃO: 0,00 | VALOR JÁ PAGO : 78.996,43
+DEDUÇÕES: 0,00
+JR OPERADOR LOGISTICO LTDA  -  CPF/CNPJ  43.966.901/0001-45
+AVENIDA PREFEITO JOAO VILALLOBO QUERO  1650
+SITIO GUPE / BELVAL - BARUERI - SP - 06422.1220239024 ISSQN237-2
+ 15,16
+Vencimento
+Agência/Código Cedente
+Nosso Número
+(=) Valor do Documento
+(-) Desconto/Abatimento
+(-) Outras Deduções
+(+) Mora/Multa
+(+) Outros Acréscimos
+(=) Valor CobradoLocal de Pagamento
+Cedente
+Data Documento
+Instruções (Texto de responsabilidade do Cedente )
+Sacado
+Código de Baixa
+Autenticação MecânicaNúmero do Documento Espécie Documento Aceite Data Processamento
+Carteira Espécie Quantidade Valor
+Sacador/ Avalista :PAGÁVEL EM QUALQUER BANCO ATÉ O VENCIMENTO
+PREFEITURA MUNICIPAL DE BARUERI CNPJ : 46.523.015/0001-35 
+VISITE O PORTAL DE SERVIÇOS DA PREFEITURA DE BARUERI www .barueri.sp.gov.br
+PAGÁVEL PREFERENCIALMENTE NAS AGÊNCIAS DO BANCO BRADESCO
+APÓS O VENCIMENTO , RETIRAR NOVO DOCUMENTO NO PORTAL DE SERVIÇOS
+PREFEITURA MUNICIPAL DE BARUERI16/10/2023
+REAL 09N16/10/2023
+1226-2 / 142773-3
+09 / 00008558761-P
+JR OPERADOR LOGISTICO LTDA  -  CPF/CNPJ  43.966.901/0001-45
+AVENIDA PREFEITO JOAO VILALLOBO QUERO  1650
+SITIO GUPE / BELVAL - BARUERI - SP - 06422.1220239024 ISSQN237-2
+ 15,16
+16/10/2023
+16/10/2023
+Uso do Banco
+Uso do Banco
+Pague via 
+QRCode PIX

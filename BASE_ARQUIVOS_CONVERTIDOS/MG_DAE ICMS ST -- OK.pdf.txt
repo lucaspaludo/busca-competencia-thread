@@ -1,0 +1,61 @@
+85670000168-3 79320060110-2 13110232351-9 10020022204-8
+SECRETARIA DE ESTADO DA 
+FAZENDA DE MINAS GERAIS
+DOCUMENTO DE ARRECADAÇÃO ESTADUAL - DAE
+MODELO 1
+2 - Nome
+3 - Endereço
+4 - Município 5 - UF 6 - Telefone
+7 - Histórico
+18 - Autenticação8 - Data de Vencimento
+9 - Período de Referência
+10 - Tipo
+11 - Número Identificação
+12 - Cód. Município em MG (Prod. Rural e Não Insc.)
+13 - Cód. Receita 
+14 - Valor Receita
+15 - Valor Multa
+16 - Valor Juros
+17 - Valor TotalMILLENIUM UTILIDADES DOMESTICAS LTDA
+RUA AMILTON PEREIRA MACHADO
+POUSO ALEGRE MG 4421036000
+SUBSTITUIÇÃO TRIBUTÁRIA DE SAÍDA.09/11/2023
+01 a 31/10/2023
+1
+002235110.0280
+220-4
+16.879,32
+16.879,32
+SECRETARIA DE ESTADO DA 
+FAZENDA DE MINAS GERAIS
+DOCUMENTO DE ARRECADAÇÃO ESTADUAL - DAE
+MODELO 1
+2 - Nome
+3 - Endereço
+4 - Município 5 - UF 6 - Telefone
+7 - Histórico
+18 - Autenticação8 - Data de Vencimento
+9 - Período de Referência
+10 - Tipo
+11 - Número Identificação
+12 - Cód. Município em MG (Prod. Rural e Não Insc.)
+13 - Cód. Receita 
+14 - Valor Receita
+15 - Valor Multa
+16 - Valor Juros
+17 - Valor TotalMILLENIUM UTILIDADES DOMESTICAS LTDA
+RUA AMILTON PEREIRA MACHADO
+POUSO ALEGRE MG 442103600009/11/2023
+01 a 31/10/2023
+1
+002235110.0280
+220-4
+16.879,32
+16.879,32Pagamento de ICMS informado no campo 102 da DAPI modelo 1.
+Documento válido para pagamento até a data do vencimento
+SUBSTITUIÇÃO TRIBUTÁRIA DE SAÍDA.
+Pagamento de ICMS informado no campo 102 da DAPI modelo 1.
+Documento válido para pagamento até a data do vencimentoSEGUNDA VIA 1 - Uso Exclusivo da DMI/SAD 
+ 1 - Uso Exclusivo da DMI/SAD 1ª VIA - CONTRIBUINTE > BANCO Modelo 06.01.57
+Modelo 06.01.57 2ª VIA - CONTRIBUINTE > BANCO > CONTRIBUINTE (COMPROVANTE DE PAGAMENTO)
+85670000168-3 79320060110-2 13110232351-9 10020022204-8PRIMEIRA VIA
