@@ -4,14 +4,23 @@ from executa_programa import executaPrograma
 from time import sleep
 import threading
 
-def disparaThreadIniciar():
-    threading.Timer(15.0, disparaThreadIniciar).start()
-    print('Executando programa')
+def tarefaThread():
+    print('Thread iniciada')
     executaPrograma()
+    print('Thread concluída')
 
-def disparaThreadEncerrar():
-    threading.Thread(disparaThreadEncerrar).start()
-    print('Encerrando programa...')
+def disparaThreadIniciar():
+    while True: #enquanto botão de finalizar não for pressionado
+        t = threading.Thread(target=tarefaThread)
+        t.start()
+        t.join()
+        print('Aguardando 15 segundos')
+        sleep(15)
+    
+
+# def disparaThreadEncerrar():
+#     threading.Thread(disparaThreadEncerrar).start()
+#     print('Encerrando programa...')
 
 def telaLogin():
     #cores ------------------------
@@ -44,9 +53,9 @@ def telaLogin():
 
     credenciais = ['teste@teste.com', '123456']
 
-    def encerraPrograma():
-        if messagebox.askokcancel('Finalizar Programa', 'Tem certea que deseja Finalizar o programa?'):
-            janela.destroy()
+    # def encerraPrograma():
+    #     if messagebox.askokcancel('Finalizar Programa', 'Tem certea que deseja Finalizar o programa?'):
+    #         janela.destroy()
    
     #função para autenticar usuário
     def verificaSenha():
@@ -79,8 +88,8 @@ def telaLogin():
         bIniciar = Button(frameBaixo, command=disparaThreadIniciar, text='Iniciar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
         bIniciar.place(x=15, y=30)
 
-        bEncerrar = Button(frameBaixo, command=disparaThreadEncerrar, text='Finalizar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
-        bEncerrar.place(x=15, y=130)
+        # bEncerrar = Button(frameBaixo, command=disparaThreadEncerrar, text='Finalizar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
+        # bEncerrar.place(x=15, y=130)
 
     #configurando o frameBaixo---------------
     lNome = Label(frameBaixo, text='E-mail *', anchor=NW, font=('Ivy 10'), bg=co1, fg=co4)
