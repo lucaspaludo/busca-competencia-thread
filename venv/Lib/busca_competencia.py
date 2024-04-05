@@ -26,7 +26,7 @@ def obtemArquivosComGuia():
     print(expressoes)
 
     # Pasta contendo os arquivos TXT
-    pasta_txt = r'C:\Robo\busca-competencia-thread\BASE_ARQUIVOS_CONVERTIDOS'
+    pasta_txt = r'C:\Robo\BASE_ARQUIVOS_CONVERTIDOS'
 
     # Lista para armazenar nomes de arquivos
     resultsArquivosComGuia = []
@@ -99,8 +99,8 @@ def obtemAnoCompetencia(arquivosCNPJ, pathTxt, pathPdf):
                             if padraoRegexAno.search(resultadoAtual):
                                 anoIdentificado = padraoRegexAno.search(resultadoAtual)[0]
                                 
-                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}', anoIdentificado)
-                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '07 - Jul')
+                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}', anoIdentificado)
+                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '07 - Jul')
                                 
                             if not os.path.exists(pathDiretorioCriadoAno):
                                 os.makedirs(pathDiretorioCriadoAno)
@@ -117,8 +117,8 @@ def obtemAnoCompetencia(arquivosCNPJ, pathTxt, pathPdf):
                             resultadoAtual = padraoRegexAnoEAgosto.search(conteudo)[0]
                             if padraoRegexAno.search(resultadoAtual):
                                 anoIdentificado = padraoRegexAno.search(resultadoAtual)[0]
-                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}', anoIdentificado)
-                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '08 - Ago')
+                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}', anoIdentificado)
+                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '08 - Ago')
                             if not os.path.exists(pathDiretorioCriadoAno):
                                 os.makedirs(pathDiretorioCriadoAno)
                                 os.makedirs(pathDiretorioCriadoMes)
@@ -135,8 +135,8 @@ def obtemAnoCompetencia(arquivosCNPJ, pathTxt, pathPdf):
                             
                             if padraoRegexAno.search(resultadoAtual):
                                 anoIdentificado = padraoRegexAno.search(resultadoAtual)[0]
-                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}', anoIdentificado)
-                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '10 - Out')
+                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}', anoIdentificado)
+                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '10 - Out')
                             if not os.path.exists(pathDiretorioCriadoAno):
                                 os.makedirs(pathDiretorioCriadoAno)
                                 os.makedirs(pathDiretorioCriadoMes)
@@ -152,8 +152,8 @@ def obtemAnoCompetencia(arquivosCNPJ, pathTxt, pathPdf):
                             resultadoAtual = padraoRegexAnoENovembro.search(conteudo)[0]
                             if padraoRegexAno.search(resultadoAtual):
                                 anoIdentificado = padraoRegexAno.search(resultadoAtual)[0]
-                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}', anoIdentificado)
-                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '11 - Nov')
+                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}', anoIdentificado)
+                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '11 - Nov')
                             if not os.path.exists(pathDiretorioCriadoAno):
                                 os.makedirs(pathDiretorioCriadoAno)
                                 os.makedirs(pathDiretorioCriadoMes)
@@ -169,8 +169,8 @@ def obtemAnoCompetencia(arquivosCNPJ, pathTxt, pathPdf):
                             resultadoAtual = padraoRegexAnoEMarco.search(conteudo)[0]
                             if padraoRegexAno.search(resultadoAtual):
                                 anoIdentificado = padraoRegexAno.search(resultadoAtual)[0]
-                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}', anoIdentificado)
-                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/busca-competencia-thread/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '03 - Mar')
+                                pathDiretorioCriadoAno = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}', anoIdentificado)
+                                pathDiretorioCriadoMes = os.path.join(f'C:/Robo/RESULTADOS/{cnpjAtual}/{anoIdentificado}', '03 - Mar')
                             if not os.path.exists(pathDiretorioCriadoAno):
                                 os.makedirs(pathDiretorioCriadoAno)
                                 os.makedirs(pathDiretorioCriadoMes)

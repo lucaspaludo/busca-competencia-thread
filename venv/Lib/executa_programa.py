@@ -5,10 +5,10 @@ from api_auth_status import obtemEExibeMensagemAlerta
 def executaPrograma():
 
     #caminho dos arquivos pdf      
-    PATH_PDF = r'C:\Robo\busca-competencia-thread\BASE_ARQUIVOS'
+    PATH_PDF = r'C:\Robo\BASE_ARQUIVOS'
 
     #caminho dos arquivos pdf converitidos
-    PATH_TXT = r'C:\Robo\busca-competencia-thread\BASE_ARQUIVOS_CONVERTIDOS'
+    PATH_TXT = r'C:\Robo\BASE_ARQUIVOS_CONVERTIDOS'
 
     #identifica arquivos PDF na pasta
     listaArquivosPdf = obtemArquivosPdf(PATH_PDF)
