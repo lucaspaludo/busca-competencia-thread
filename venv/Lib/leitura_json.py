@@ -1,5 +1,3 @@
-#este arquivo lê o arquivo JSON e armazena as guias em uma lista
-
 from json import load
 
 def identificaGuia(arquivo):
@@ -13,7 +11,3 @@ def identificaGuia(arquivo):
         listaGuias.append(df[i]['GUIA'])
     
     return listaGuias
-
-# x = identificaGuia(path)
-# print(x)
-

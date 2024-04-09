@@ -11,6 +11,3 @@ def obtemGuiasEndpoint(username, password):
     else:
         print(f'Erro ao obter token: {response.status_code}')
         return None
-
-
-

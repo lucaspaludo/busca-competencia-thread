@@ -1,7 +1,5 @@
 import requests
 from popup import exibirPopup
-import tkinter as tk
-from time import sleep
 
 def obtemEExibeMensagemAlerta(username='teste@teste.com', password='123456'):
     url = 'https://api.emonitorei.com/v1/fiscal/mensagem-alerta/?status=A'
@@ -37,5 +35,3 @@ def obtemEExibeMensagemAlerta(username='teste@teste.com', password='123456'):
         
         print(f'Erro ao obter token: {response.status_code}')
         return None
-    
-

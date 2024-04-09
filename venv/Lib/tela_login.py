@@ -12,35 +12,19 @@ def tarefaThread():
 threadEmExecucao = False
 
 def disparaThreadIniciar():
+    janela.withdraw()
     global threadEmExecucao
-    if not threadEmExecucao:
-        threadEmExecucao = True
-        bEncerrar.config(state=NORMAL)
-    #while disparaThreadEncerrar: #enquanto botão de finalizar não for pressionado
+    while not threadEmExecucao:
+        
         t = threading.Thread(target=tarefaThread)
         t.start()
         t.join()
-        print('Aguardando 15 segundos')
         sleep(15)
-    else:
-        print('A tarefa já está em execução.')
-
-def encerramentoProgramaThread():
-    if messagebox.askokcancel('Finalizar Programa', 'Tem certea que deseja Finalizar o programa?'):
-        
-        janela.destroy()
-    
-def disparaThreadEncerrar():
-    t = threading.Thread(target=encerramentoProgramaThread)
-    t.start()
-    print('Encerrando programa...')
 
 def telaLogin():
     #cores ------------------------
-    co0 = "#f0f3f5"  # preto
     co1 = "#feffff"  # branco
     co2 = "#3fb5a3"  # verde
-    co3 = "#38576b"  # valor 
     co4 = "#403d3d"   # letra 
 
     #criando janela ---------------
@@ -67,10 +51,10 @@ def telaLogin():
 
     credenciais = ['teste@teste.com', '123456']
 
-    # def encerraPrograma():
-    #     if threadEmExecucao:
-    #         if messagebox.askokcancel('Finalizar Programa', 'Tem certea que deseja Finalizar o programa?'):
-    #             janela.destroy()
+    #função para encerrar programa
+    def encerraPrograma():
+        if messagebox.askokcancel('Finalizar Programa', 'Tem certea que deseja Finalizar o programa?'):
+            janela.destroy()
    
     #função para autenticar usuário
     def verificaSenha():
@@ -87,7 +71,8 @@ def telaLogin():
 
         else: 
             messagebox.showwarning('Erro', 'Seus dados estão incorretos.')
-           
+
+
     def novaJanela():
         #configurando o frameCima---------------
         lNome = Label(frameCima, text='Seja bem vindo!', anchor=NE, font=('Ivy 25'), bg=co1, fg=co4)
@@ -103,8 +88,7 @@ def telaLogin():
         bIniciar = Button(frameBaixo, command=disparaThreadIniciar, text='Iniciar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
         bIniciar.place(x=15, y=30)
 
-        global bEncerrar
-        bEncerrar = Button(frameBaixo, command=disparaThreadEncerrar, text='Finalizar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
+        bEncerrar = Button(frameBaixo, command=encerraPrograma, text='Finalizar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
         bEncerrar.place(x=15, y=130)
 
     #configurando o frameBaixo---------------
@@ -120,8 +104,6 @@ def telaLogin():
 
     bConfirmar = Button(frameBaixo, command=verificaSenha, text='Entrar', width=39, height=2, font=('Ivy 8 bold'), bg=co2, fg=co1, relief=RAISED, overrelief=RIDGE)
     bConfirmar.place(x=15, y=180)
-
-    
 
     janela.mainloop()
 

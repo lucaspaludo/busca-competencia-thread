@@ -7,6 +7,5 @@ if not versaoPython:
     downloadInstaladorPython()
 
 print('Python 3.8.5 instalado com sucesso!')   
- 
-telaLogin()
 
+telaLogin()

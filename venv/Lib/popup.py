@@ -1,5 +1,4 @@
 import tkinter as tk
-from time import sleep
 
 def exibirPopup(titulo, mensagem):
     popup = tk.Tk()
