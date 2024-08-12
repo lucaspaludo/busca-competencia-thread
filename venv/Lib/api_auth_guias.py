@@ -1,7 +1,7 @@
 import requests
 
 def obtemGuiasEndpoint(username, password):
-    url = 'https://api.emonitorei.com/v1/fiscal/guia-homologada/'
+    url = ''
     response = requests.get(url, auth=(username, password))
 
     if response.status_code == 200:
