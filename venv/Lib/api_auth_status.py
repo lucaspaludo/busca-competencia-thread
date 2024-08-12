@@ -1,8 +1,8 @@
 import requests
 from popup import exibirPopup
 
-def obtemEExibeMensagemAlerta(username='teste@teste.com', password='123456'):
-    url = 'https://api.emonitorei.com/v1/fiscal/mensagem-alerta/?status=A'
+def obtemEExibeMensagemAlerta(username='', password=''):
+    url = ''
     response = requests.get(url, auth=(username, password))
 
     if response.status_code == 200:
@@ -23,7 +23,7 @@ def obtemEExibeMensagemAlerta(username='teste@teste.com', password='123456'):
                     "usuario": usuario  
                   }
                 
-                response = requests.put(f"https://api.emonitorei.com/v1/fiscal/mensagem-alerta/{endPoint[i]['id']}/", json=dados, auth=(username, password))
+                response = requests.put(f"", json=dados, auth=(username, password))
                 if response.status_code == 200:
                     print(response.json())
                 else:
