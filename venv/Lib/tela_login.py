@@ -49,7 +49,7 @@ def telaLogin():
     lLinha = Label(frameCima, text='', width=275, anchor=NW, font=('Ivy 1'), bg=co2, fg=co4)
     lLinha.place(x=10, y=45)
 
-    credenciais = ['teste@teste.com', '123456']
+    credenciais = ['', '']
 
     #função para encerrar programa
     def encerraPrograma():
