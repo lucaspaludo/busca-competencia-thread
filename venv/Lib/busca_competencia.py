@@ -17,7 +17,7 @@ def buscar_ocorrencias(arquivo_txt, expressoes):
 
 def obtemArquivosComGuia():
     # Carregando o JSON
-    dados_json = obtemGuiasEndpoint('teste@teste.com', '123456')
+    dados_json = obtemGuiasEndpoint('', '')
         
     # Obtendo todas as expressões do JSON
     expressoes = [item['expressao'] for item in dados_json]
