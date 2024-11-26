@@ -1,4 +1,4 @@
-# 📁 **File Organizer & Converter** 🛠️
+# 📁 **File Organizer & Converter** 
 
 > Um sistema eficiente para conversão de arquivos PDF para TXT, extração de informações relevantes (CNPJ, meses, anos) e organização automatizada de pastas no computador com base nos dados encontrados.
 
