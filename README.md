@@ -24,11 +24,4 @@
 
 ---
 
-## 📦 **Pré-requisitos**
 
-Certifique-se de ter os seguintes itens instalados no seu ambiente:
-
-- **Python 3.8+**
-- **Bibliotecas Necessárias:** Instale as dependências com o comando:
-  ```bash
-  pip install -r requirements.txt
